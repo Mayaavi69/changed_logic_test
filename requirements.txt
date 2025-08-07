@@ -1,0 +1,6 @@
+numpy
+playsound
+pynput
+rapidfuzz
+pyaudio
+openai-whisper

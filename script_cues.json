@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "hi_text": "Sampoorna lok mein yash phaila Dashrath Nandan Raghurai ka. Jai ghosh goonjta chaaro disha Shri Raghav ki prabhutai ka. He Ram, yagya ho gaya poorn — ab tum samraat ho gaye ho. The maryada ke shikhar purush, ab maha viraat ho gaye ho. Rishi Valmiki ko aashram se de aamantran bulwaya hai. He Suryavansh ke dhaval ketu, unka sandesha aaya hai. Saket padhare hain Valmiki Rishivar, do Rishi Kumar bhi aaye hain. Woh roop, sheel, sangeet-nishth charche nagari mein chhaye hain. Rishi Valmiki ki Ramayan woh jhoom jhoom kar gaate hain. Manav to kya, pashu-pakshi bhi sab mantramugdh ho jaate hain. Ye manmohak swar suno Ram, woh itna meetha gaate hain. Lagta hai dono Rishi Kumar is sabha bhavan mein aate hain.",
+    "first_tokens": ["Sampoorna", "lok", "mein"],
+    "en_audio": "1.mp3"
+  },
+  {
+    "id": 2,
+    "hi_text": "He Ram! Kalyan vratu. Yeh Lav-Kush, jinhone itne meethe swar mein aapki leela gaayi hai. Yeh putra aapke hain Ram — bal, buddhi aur vidya ke nidhana. Yeh Suryavansh ke deepak hain, yeh Raghukul ke swabhimaan. He dharmanishth Dashrathnandan, in Dhruvon ka shringar karo. Apne in dono putron ko, he Raghavanand, swikaar karo. Yeh Janaknandini Vaidehi, aadarsh nariyon ki Sita. Maharani Avadh Dham ki hain, he Ram, tumhaari parineeta. Mere aashram mein Raghukul ke aagaman bhavishya ko paalta hai. He Ram, Janki ne ab tak kul ka astitva sambhaala hai. Pratipal Shri SiyaRam ki hi ab Ram punah swikaar karo. Apni priyatam Janki ko, he Raghav, ankiya karo.",
+    "first_tokens": ["He", "Ram", "Kalyan"],
+    "en_audio": "2.mp3"
+  },
+  {
+    "id": 3,
+    "hi_text": "Mere sarvasva Ram. Mere devar, meri behnein, mata. He Rishigan, sakal atithi gan, he Ved mantra ke udghaata. He Avadh rajya ke saare jan, Sita ka swikaar ho pranaam. Sita ki avadhi hui poori, ho gaye Dharadhar ke poorn kaam. Yeh dono Kumar Ayodhya ke, ab hain samarth — lautti hoon. Apne Swami Raghunandan ko, dono ka haath thamaati hoon. Apni Sita ki bhuliyon ko, he mere Naath, kshama karna. Ho bhool agar in putron se, to he Raghunath, kshama karna. Ho gayi avadhi poori meri, Maa Vasundhare aao, aao. Vishraam chahti hai Sita, apni puneeta ko le jaao. Kitne sukh-dukh, kitni peeda, hans-hans kar humne saath jiye. Kyon path mein chhod gayi ekaaki, meri ardhangini praan priye. Yeh praan bhala kyon tan mein hain, praanon se pyaari Sita thi. Kya Ashwamedh ki poornahuti ke liye humaari Sita thi? Ab is peeda ka kaalkoot, yeh Ram nahin pee paayega. Sita bhoomisth ho chuki hai, ab Ram nahin jee paayega. (Valmiki aage badhkar Ram ko sambhalte hain)",
+    "first_tokens": ["Mere", "sarvasva", "Ram"],
+    "en_audio": "3.mp3"
+  },
+  {
+    "id": 5,
+    "hi_text": "Sita! Janmon ka bandhan tha, kya hua — achaanak tod diya. Apne sahar ko, Vaidehi, akele ekaanki chhod diya. Mere haathon mein jeevan ki peeda ka panna thama gaya. Raghav ko ekaaki kar, khud Vasudhara mein sama gaya. Kitne sukh-dukh, kitni peeda, hans-hans kar humne saath jiye. Kyon path mein chhod gayi ekaaki, meri ardhangini praan priye. Yeh praan bhala kyon tan mein hain, praanon se pyaari Sita thi. (Valmiki ki taraf dekhkar) Kya Ashwamedh ki poornahuti ke liye humaari Sita thi? Ab is peeda ka kaalkoot, yeh Ram nahin pee paayega. Sita bhoomisth ho chuki hai, ab Ram nahin jee paayega. (Valmiki aage badhkar Ram ko sambhalte hain)",
+    "first_tokens": ["Sita", "Janmon", "ka"],
+    "en_audio": "5.mp3"
+  },
+  {
+    "id": 6,
+    "hi_text": "He Suryavansh ke adhinayak, Samraat Ram vichlit kyon ho? He gyaan poonj, he Mahateja, he Poornakaam, vichlit na ho? He Ram, tumhaari Sita se yug-yug ka paavan naata hai. Par is dharti par har praani, jaane ke liye hi aata hai. Is jeev jagat mein praani ko, apna paatratva nibhaana hai. He Ram, shok ko tyaag karo, hum sabko ek din jaana hai.",
+    "first_tokens": ["He", "Suryavansh", "ke"],
+    "en_audio": "6.mp3"
+  },
+  {
+    "id": 7,
+    "hi_text": "He Rishivar, Mahlon se lekar vankan tak, Sita ne dukh hi jhele the. Banvaas, arvan banvaas sahe, bolon se hi akele the. He Dev, hriday ka soona pan, Sita ke bina bharoon kaise? Nishpraan deh par satta ka, yeh bhaari bojh dharoon kaise?",
+    "first_tokens": ["He", "Rishivar", "Mahlon"],
+    "en_audio": "7.mp3"
+  },
+  {
+    "id": 8,
+    "hi_text": "He Ram, jahan bhi rahi Sita, uski har saans tumhaari thi. Tum maryada ki moorat ho, woh dharm parayan naari thi. He Ragha, uske jeevan ka, dharti-aakaash tumhaara tha. Woh tumse alag kahaan par hai, jab usmein vaas tumhaara tha? Isliye Ram, tyaago vishaad, khud ko samjhaana hi hoga. Jo saump gayi Sita tumko, woh dharm nibhaana hi hoga.",
+    "first_tokens": ["He", "Ram", "jahan"],
+    "en_audio": "8.mp3"
+  },
+  {
+    "id": 9,
+    "hi_text": "Apni baahon mein bharo Ram, apne putron se pyaar karo. Jo likha Vidhaata ne Raghav, wah param satya swikaar karo.",
+    "first_tokens": ["Apni", "baahon", "mein"],
+    "en_audio": "9.mp3"
+  },
+  {
+    "id": 10,
+    "hi_text": "He Ram! Kalyan vratu. Yeh Lav-Kush, jinhone itne meethe swar mein aapki leela gaayi hai. Yeh putra aapke hain Ram — bal, buddhi aur vidya ke nidhana. Yeh Suryavansh ke deepak hain, yeh Raghukul ke swabhimaan. He dharmanishth Dashrathnandan, in Dhruvon ka shringar karo. Apne in dono putron ko, he Raghavanand, swikaar karo. Yeh Janaknandini Vaidehi, aadarsh nariyon ki Sita. Maharani Avadh Dham ki hain, he Ram, tumhaari parineeta. Mere aashram mein Raghukul ke aagaman bhavishya ko paalta hai. He Ram, Janki ne ab tak kul ka astitva sambhaala hai. Pratipal Shri SiyaRam ki hi ab Ram punah swikaar karo. Apni priyatam Janki ko, he Raghav, ankiya karo.",
+    "first_tokens": ["He", "Ram", "Kalyan"],
+    "en_audio": "10.mp3"
+  },
+  {
+    "id": 3,
+    "hi_text": "Mere sarvasva Ram. Mere devar, meri behnein, mata. He Rishigan, sakal atithi gan, he Ved mantra ke udghaata. He Avadh rajya ke saare jan, Sita ka swikaar ho pranaam. Sita ki avadhi hui poori, ho gaye Dharadhar ke poorn kaam. Yeh dono Kumar Ayodhya ke, ab hain samarth — lautti hoon. Apne Swami Raghunandan ko, dono ka haath thamaati hoon. Apni Sita ki bhuliyon ko, he mere Naath, kshama karna. Ho bhool agar in putron se, to he Raghunath, kshama karna. Ho gayi avadhi poori meri, Maa Vasundhare aao, aao. Vishraam chahti hai Sita, apni puneeta ko le jaao. Kitne sukh-dukh, kitni peeda, hans-hans kar humne saath jiye. Kyon path mein chhod gayi ekaaki, meri ardhangini praan priye. Yeh praan bhala kyon tan mein hain, praanon se pyaari Sita thi. Kya Ashwamedh ki poornahuti ke liye humaari Sita thi? Ab is peeda ka kaalkoot, yeh Ram nahin pee paayega. Sita bhoomisth ho chuki hai, ab Ram nahin jee paayega. (Valmiki aage badhkar Ram ko sambhalte hain)",
+    "first_tokens": ["Mere", "sarvasva", "Ram"],
+    "en_audio": "3.mp3"
+  },
+  {
+    "id": 5,
+    "hi_text": "Sita! Janmon ka bandhan tha, kya hua — achaanak tod diya. Apne sahar ko, Vaidehi, akele ekaanki chhod diya. Mere haathon mein jeevan ki peeda ka panna thama gaya. Raghav ko ekaaki kar, khud Vasudhara mein sama gaya. Kitne sukh-dukh, kitni peeda, hans-hans kar humne saath jiye. Kyon path mein chhod gayi ekaaki, meri ardhangini praan priye. Yeh praan bhala kyon tan mein hain, praanon se pyaari Sita thi. (Valmiki ki taraf dekhkar) Kya Ashwamedh ki poornahuti ke liye humaari Sita thi? Ab is peeda ka kaalkoot, yeh Ram nahin pee paayega. Sita bhoomisth ho chuki hai, ab Ram nahin jee paayega. (Valmiki aage badhkar Ram ko sambhalte hain)",
+    "first_tokens": ["Sita", "Janmon", "ka"],
+    "en_audio": "5.mp3"
+  },
+  {
+    "id": 6,
+    "hi_text": "He Suryavansh ke adhinayak, Samraat Ram vichlit kyon ho? He gyaan poonj, he Mahateja, he Poornakaam, vichlit na ho? He Ram, tumhaari Sita se yug-yug ka paavan naata hai. Par is dharti par har praani, jaane ke liye hi aata hai. Is jeev jagat mein praani ko, apna paatratva nibhaana hai. He Ram, shok ko tyaag karo, hum sabko ek din jaana hai.",
+    "first_tokens": ["He", "Suryavansh", "ke"],
+    "en_audio": "6.mp3"
+  },
+  {
+    "id": 7,
+    "hi_text": "He Rishivar, Mahlon se lekar vankan tak, Sita ne dukh hi jhele the. Banvaas, arvan banvaas sahe, bolon se hi akele the. He Dev, hriday ka soona pan, Sita ke bina bharoon kaise? Nishpraan deh par satta ka, yeh bhaari bojh dharoon kaise?",
+    "first_tokens": ["He", "Rishivar", "Mahlon"],
+    "en_audio": "7.mp3"
+  },
+  {
+    "id": 8,
+    "hi_text": "He Ram, jahan bhi rahi Sita, uski har saans tumhaari thi. Tum maryada ki moorat ho, woh dharm parayan naari thi. He Ragha, uske jeevan ka, dharti-aakaash tumhaara tha. Woh tumse alag kahaan par hai, jab usmein vaas tumhaara tha? Isliye Ram, tyaago vishaad, khud ko samjhaana hi hoga. Jo saump gayi Sita tumko, woh dharm nibhaana hi hoga.",
+    "first_tokens": ["He", "Ram", "jahan"],
+    "en_audio": "8.mp3"
+  }
+]
